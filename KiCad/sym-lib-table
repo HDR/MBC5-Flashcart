@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name mbc5flash-rescue)(type Legacy)(uri ${KIPRJMOD}/mbc5flash-rescue.lib)(options "")(descr ""))
-)
