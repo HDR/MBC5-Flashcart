@@ -1,4 +1,4 @@
-# MBC5-Flashcart
+# MBC5-Flashcart (Pending update, please don't use OSHpark or gerbers for now)
 
 [OSHPark](https://oshpark.com/shared_projects/JCySsamQ)
 
