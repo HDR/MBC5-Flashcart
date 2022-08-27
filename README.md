@@ -22,7 +22,6 @@ If you want to support me for free (and get 5 USD in new user credit) you can us
 | R1 | [RC0603JR-0710KL](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603JR-0710KL_C99198.html) | 10kΩ 0603 |
 | R2 | [RC0603JR-0730KL](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603JR-0730KL_C113302.html) | 30kΩ 0603 |
 | R3 | [RS-03K150JT](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K150JT_C187891.html) | 15Ω 0603 |
-| R4 | [0603WAJ0220T5E](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ0220T5E_C1203.html) | 22Ω 0603 |
 | D1 | [SD103AW](https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Guangdong-Hottech-SD103AW_C181204.html) | SOD-123 |
 | Q1 | [BC817-40,215](https://www.nexperia.com/products/bipolar-transistors/general-purpose-and-low-vcesat-bipolar-transistors/single-bipolar-transistors/single-bipolar-transistors-100-v/BC817-40.html) | SOT-23 |
 | M1 | [Vibration Motor](https://www.aliexpress.com/item/32787320737.html) |  |
